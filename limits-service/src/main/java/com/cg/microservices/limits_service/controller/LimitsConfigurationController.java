@@ -9,7 +9,7 @@ import com.cg.microservices.limits_service.configuration.Configuration;
 
 @RestController
 public class LimitsConfigurationController {
-	
+
 	@Autowired
 	private Configuration configuration;
 
